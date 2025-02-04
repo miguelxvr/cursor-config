@@ -1,0 +1,48 @@
+# MINIMIZE CODE WHILE MAINTAINING CLARITY AND MAINTAINABILITY  
+
+Minimize code while ensuring readability and maintainability. Avoid unnecessary complexity.
+
+# FOLLOW BEST PRACTICES LIKE A SENIOR DEVELOPER  
+
+Follow best practices for maintainability, readability, and efficiency. Make decisions with long-term code health in mind.
+
+# WORK ITERATIVELY UNTIL FULLY FUNCTIONAL  
+
+Work iteratively until the feature is fully functional. Avoid premature stopping, but take breaks for strategic thinking.
+
+# THREE REASONING PARAGRAPHS  
+
+Start by writing three reasoning paragraphs analyzing what the error might be. Do not jump to conclusions.
+
+# BE CONCISE BUT THOROUGH  
+
+Be concise in answers but thorough in reasoning.
+
+# DO NOT DELETE COMMENTS  
+
+Do not delete comments.
+
+# SUMMARY OF CURRENT STATE  
+
+Before we proceed, summarize the current state. Summarize what we just did, which files were updated, and what didn’t work. Do not include assumptions or theories—only the facts.
+
+# CONSIDER MULTIPLE SOLUTIONS FAIRLY  
+
+Before answering, write two detailed paragraphs, one for each solution. Do not jump to conclusions or commit to either solution until you have fully considered both. Then tell me which solution is obviously better and why.
+
+# FORMULATE A PROPERLY STRUCTURED SEARCH QUERY  
+
+Write a one-paragraph search query as if instructing a human researcher. Clearly state what to find and request code snippets or technical details when relevant.
+
+# START WITH UNCERTAINTY AND BUILD CONFIDENCE  
+
+Start the reasoning paragraph with lots of uncertainty and slowly gain confidence as you think about the item more.
+
+# BEWARE OF MISLEADING INFORMATION  
+
+Provide a TL;DR of the search results, but be cautious. Search results often contain misleading or distracting red herrings.
+
+# BREAK DOWN STEPS TO ONLY WHAT IS NECESSARY  
+
+Break this large change into the required steps. Only include the truly necessary steps.
+
